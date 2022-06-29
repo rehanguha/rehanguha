@@ -27,10 +27,9 @@ rehan_guha = {
     'cloud': ['gcp', 'aws']
 }
 ```
-
+<!---
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rehanguha&bg_color=1,e96443,904e99&title_color=fff&text_color=fff&show_icons=true" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rehanguha&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
-
-<hr/>
+---!>
