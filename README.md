@@ -1,15 +1,27 @@
-<hr/>
+<a href="https://www.linkedin.com/in/rehanguha/">
+  <img align="left" alt="RGJ's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/rehan_guha">
+  <img align="left" alt="RGJ's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://github.com/rehanguha">
+  <img align="left" alt="RGJ's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rehan.guha/">
+  <img align="left" alt="RGJ's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-[![Linkedin: rehanguha](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rehanguha/)](https://www.linkedin.com/in/rehanguha/)
 
+<br>
 <hr/>
 
 ### aboutMe.py
 
 ```python
 rehan_guha = {
-    'pronouns': "he" | "him",
-    'askMeAbout': ["A.I.", "Machine Learning", "Data Science", "Deep Learning", "Philosophy"],
+    'pronouns': "he / him",
+    'askMeAbout': ["A.I.", "Machine Learning", "Data Science", 
+                    "Deep Learning", "Philosophy"],
     'domain': {
         'telecom': ["Time_Series", "Structured_Data"],
         'banking': ["Structured_Data", "Semi_Structured_Data"],
@@ -19,7 +31,8 @@ rehan_guha = {
     },
     'algorithms': {
         'timeseries': ['Arima+', 'LSTM', 'FBProphet', '...'],
-        'classical_ml': ['probabilistic_modelling', 'graphical_modelling', 'xgboost', 'lightgbm', '...'],
+        'classical_ml': ['probabilistic_modelling', 'graphical_modelling', 
+                            'xgboost', 'lightgbm', '...'],
         'deep_learning': ['CNN', 'LSTM', 'CRF', 'RBMs', 'SOMs', '...'],
         'others': ['LDA', 'GANs', 'Autoencoders', '...']
     },
