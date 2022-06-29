@@ -1,21 +1,36 @@
-### Hi there 👋
+<hr/>
 
-<!--
-**rehanguha/rehanguha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: rehanguha](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rehanguha/)](https://www.linkedin.com/in/rehanguha/)
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### aboutMe.py
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rehanguha&bg_color=1,e96443,904e99&title_color=fff&text_color=fff&show_icons=true" alt="kartik4949" /></p>
+```python
+rehan_guha = {
+    'pronouns': "he" | "him",
+    'askMeAbout': ["A.I.", "Machine Learning", "Data Science", "Deep Learning", "Philosophy"],
+    'domain': {
+        'telecom': ["Time_Series", "Structured_Data"],
+        'banking': ["Structured_Data", "Semi_Structured_Data"],
+        'insurance': ["Computer_Vision", "NLP"],
+        'litigation': ["Structured_Data", "Topic_Modelling"],
+        '...': [...]
+    },
+    'algorithms': {
+        'timeseries': ['Arima+', 'LSTM', 'FBProphet', '...'],
+        'classical_ml': ['probabilistic_modelling', 'graphical_modelling', 'xgboost', 'lightgbm', '...'],
+        'deep_learning': ['CNN', 'LSTM', 'CRF', 'RBMs', 'SOMs', '...'],
+        'others': ['LDA', 'GANs', 'Autoencoders', '...']
+    },
+    'framework': ['tensorflow', 'H2o.ai', 'sklearn'],
+    'cloud': ['gcp', 'aws']
+}
+```
+
 <br>
-<p> <img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=rehanguha&theme=holi-theme&date_format=j%20M%5B%20Y%5D" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rehanguha&bg_color=1,e96443,904e99&title_color=fff&text_color=fff&show_icons=true" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rehanguha&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
+
+<hr/>
