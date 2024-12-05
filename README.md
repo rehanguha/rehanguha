@@ -4,18 +4,18 @@
 <a href="https://www.linkedin.com/in/rehanguha/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="RGJ's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/rehan_guha" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://twitter.com/rehan_guha" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="RGJ's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
+</a> -->
 <a href="https://github.com/rehanguha" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="RGJ's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/rehan.guha/" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://www.instagram.com/rehan.guha/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="RGJ's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://rehanguha.github.io/feed.xml" target="_blank" rel="noopener noreferrer">
+</a> -->
+<!-- <a href="https://rehanguha.github.io/feed.xml" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="RGJ's RSS" width="100px" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
+</a> -->
 
 <br>
 <hr/>
